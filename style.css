@@ -65,7 +65,8 @@ body {
 
 .about-section,
 .services-section,
-.contact-section {
+.contact-section,
+.favourite-section {
     background-color: white;
     padding: 2rem;
     margin-bottom: 2rem;
